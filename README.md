@@ -50,9 +50,6 @@ Use the ANN or CNN notebooks to train a classifier on the processed ECG data.
 Use the MicroPython deployment notebook to flash the model and run real-time inference on embedded hardware.
 
 
-Anatomy of the heart-
-![image](https://github.com/user-attachments/assets/608984f4-e7da-4abd-874f-459245b9c715)
-
 Wavelet Decomposition-
 ![image](https://github.com/user-attachments/assets/04997da3-20bb-4484-826a-f3e267bdf827)
 
